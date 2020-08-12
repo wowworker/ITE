@@ -1,4 +1,4 @@
-# Information Theoretical Estimators (ITE) in Python
+== Information Theoretical Estimators (ITE) in Python ==
 
 It
 
