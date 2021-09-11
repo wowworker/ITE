@@ -21,7 +21,7 @@ Estimated quantities:
 
 * * *
 
-**Citing**: If you use the ITE toolbox in your research, please cite it \[[.bib](http://www.cmap.polytechnique.fr/~zoltan.szabo/ITE.bib)\].
+**Citing**: If you use the ITE toolbox in your research, please cite it \[[.bib](https://zoltansz.github.io/ITE.bib)\].
 
 **Download** the latest release:
 
